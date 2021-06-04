@@ -1,0 +1,13 @@
+Dockerfile
+/logstash/*
+/kibana/*
+/prometheus/*
+/grafana/*
+/evidences/*
+docker-compose
+.dockerignore
+.gitignore
+*.db
+*.env
+*.yml
+*.md
