@@ -88,7 +88,7 @@ You can configure the total of tweets collected per #tag as well, just adjusting
 tw_number = 100
 ```
 
-In the root path you'll find `postman-twitter-api.json`, that's a colletion for postman. Import this file into your postman and it will give you all the endpoint created:
+In the root path you'll find `postman-twitter-api.json`, that's a colletion for postman. Import this file into your postman and it will give you all the endpoints created:
 
 I'm considering that you're running it on localhost, so your base URL should be some like this `http://localhost:5000`. Now, the endpoints:
 
