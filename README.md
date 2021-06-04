@@ -263,3 +263,7 @@ API Latency:
 ![latency-rate](evidences/latency-rate.png)
 This dashboard will display the API latency rate for the passed 5 minutes.
 #### **NOTE**: When you run database deletion or creation the latency rate may seems a little hight due these two requests usually take a little longer than others.
+
+### **Dashboard overview**:
+
+![latency-rate](evidences/dashboard-overview.png)
