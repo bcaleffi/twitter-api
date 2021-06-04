@@ -19,33 +19,20 @@
 ### **Flask**:
 Which allow us to perform http requests.
 
-<br />
-
 ### **Tweepy**:
 `Tweepy` provides access to the well documented Twitter API and allow us to get an object from the API, besides being easy to manipulate it.
-
-<br />
 
 ### **SQLite3**:
 Using a file format, `sqlite3` gives a better performance reading and writing. And the most important, is really simple to use.
 
-<br />
-
 ### **SQLAlchemy**:
 `SQLAlchemy` works really well with `sqlite3`, it allow us to map a model class and perform pre-seted functions. In our case we're using SQLAlchemy to map tweet model class and build all the database and table structure without write a single line of SQL.
-
-<br />
 
 ### **Logstash**:
 Allow us to set some configuration (handler/formatter) and connection with the `logstash` service.
 
-<br />
-
 ### **PrometheusMetrics**
 Once declared and referenced to the Flask App, it will automatically expose and publish metrics on `<flask_app_url>/metrics`.
-
-
-<br />
 
 ### **Project tree**:
 
